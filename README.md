@@ -1,5 +1,5 @@
 # Git and GitHub Practice
-This repository was created as a part of my learning journey with ALX Africa on Git and Github. It includes various exercises, notes and examples that helped me understand the basics of version control, and Git commands.
+This project was created as a part of my learning journey with ALX Africa on Git and Github. It includes various exercises, notes and examples that helped me understand the basics of version control, and Git commands.
 
 ## What This Repsository Covers
 
